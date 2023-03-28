@@ -1,0 +1,17 @@
+ {
+    "articuloUno": "iPod Classic",
+    "articuloDos": "iMac",
+    "nombre": "Nathaly",
+    "apellido": "Angulo",
+    "correo": "seyoyom178@mitigado.com",
+    "telefono": "945645465",
+    "clave": "Prueba01",
+    "confirmaClave":"Prueba01",
+    "direccion": "Santiago",
+    "ciudad": "Santiago",
+    "codigoPostal": "1030000",
+    "pais": "Chile",
+    "region": "Region Metropolitana",
+    "shipping" : "Flat Shipping Rate - $5.00",
+    "estadoCompra" : "Pending"
+  }
